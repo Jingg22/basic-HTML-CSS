@@ -1,0 +1,30 @@
+.image {
+    margin:auto;
+    padding:auto;
+    background-color:rgb(59, 59, 54);
+}
+.navigation {
+    display:flex;
+    padding:auto;
+    align-items:center;
+    justify-content:center;
+    list-style-type: none;
+
+}
+.nav_list {
+    display:flex;
+    flex-direction:row;
+    padding:2cm;
+    margin:auto;
+}
+.main {
+    display:block;
+    margin:auto;
+    padding:5px;
+}
+.column1 {
+    display:block;
+    float:left;
+    
+    padding:5px;
+}
